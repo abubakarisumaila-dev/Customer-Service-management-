@@ -89,7 +89,7 @@ int main() {
     center.peekNextCall();
 
     center.answerNextCall("Agent Ammisah");
-    center.answerNextCall("Agent John")
+    center.answerNextCall("Agent John");
     center.incomingCall("Diana Akoto", "0550909043", "Password reset assistance.");
 
     center.displayQueue();
